@@ -9,11 +9,11 @@ Computer Engineering graduate pursuing MSc in Cybersecurity at Atlantic Technolo
 ## 🚀 Current Focus
 
 **Portfolio Projects:**
-- 🛡️ ISO 27001 ISMS Implementation (Financial Services)
+- 🛡️ ISO 27001 ISMS Implementation (Financial Services) 
 - 🏥 GDPR Healthcare Compliance Assessment
 - 📊 NIST 800-30 Risk Assessment (University Financial System)
 - 🔍 Data Center Vulnerability Assessment & CVE Analysis
-
+- 🤖 LinkedIn Automation System (n8n + Claude AI + Multi-API Integration)
 ---
 
 ## 💼 Technical Skills
@@ -29,16 +29,26 @@ Computer Engineering graduate pursuing MSc in Cybersecurity at Atlantic Technolo
 - Risk Assessment & Treatment Planning
 - Policy Development & Audit Preparation
 
+**Automation & Integration:**
+- n8n Workflow Automation
+- API Integration (Google, LinkedIn, Slack, Anthropic, POE)
+- Claude AI Integration (Sonnet 4)
+- Docker Containerization
+- Multi-source Data Aggregation
+- Event-Driven Architectures
+
 **Infrastructure:**
 - Networking: IPv4 Subnetting, OSPF, VLANs, Routing
 - Cloud: Microsoft Azure (AZ-900 Certified)
 - Systems: Windows Server, Ubuntu Linux
+- Containers: Docker, Docker Compose
 
 **Tools & Technologies:**
 - CVSS Scoring & Prioritization
 - Cisco Packet Tracer
 - Network Configuration & Security
 - Documentation & Technical Writing
+- n8n Workflow Engine
 
 ---
 
@@ -50,6 +60,17 @@ Comprehensive portfolio documenting my MSc journey with hands-on projects across
 - **Vulnerability Management:** Data center assessment, CVE analysis
 - **Network Security:** Campus design, VLAN security, routing protocols
 - **Security Operations:** Splunk SIEM, Wireshark analysis
+
+### [LinkedIn Automation System](https://github.com/jon3nity/linkedin-automation-n8n)
+Basic production-grade workflow automation system featuring:
+- Multi-source content aggregation (RSS, Gmail, Google Calendar)
+- Claude AI integration for natural language generation
+- Intelligent personal story mining from email
+- Theme-based content routing
+- Quality gates and relevance scoring
+- Automated image selection (Unsplash API)
+- Multi-platform publishing (LinkedIn, Sheets, Slack)
+- 100% success rate, $0/month operating cost
 
 ---
 
@@ -71,10 +92,15 @@ Comprehensive portfolio documenting my MSc journey with hands-on projects across
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+**Automation & AI:**  
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+
 **Development & Automation:**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -89,7 +115,9 @@ Comprehensive portfolio documenting my MSc journey with hands-on projects across
 ## 🎯 Career Objectives
 
 - Hands-on experience with vulnerability assessments and compliance frameworks
+- Proven automation engineering skills (production LinkedIn automation system)
 - Strong analytical thinking and attention to detail
+- API integration and workflow orchestration expertise
 - Systematic approach to problem-solving
 - "No quitter" mentality when facing technical challenges
 - Passion for continuous learning and professional development
