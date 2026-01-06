@@ -4,10 +4,6 @@
 
 Computer Engineering graduate pursuing MSc in Cybersecurity at Atlantic Technological University, Letterkenny. Passionate about threat detection, vulnerability management, and security compliance. Currently building a professional portfolio while working towards industry certifications.
 
-📍 Based in Letterkenny, Ireland  
-🎓 Graduating September 2026 with Distinction focus  
-🎯 Seeking SOC Analyst / Security Analyst roles in Ireland
-
 ---
 
 ## 🚀 Current Focus
