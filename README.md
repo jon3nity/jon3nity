@@ -119,7 +119,6 @@ Basic production-grade workflow automation system featuring:
 - Strong analytical thinking and attention to detail
 - API integration and workflow orchestration expertise
 - Systematic approach to problem-solving
-- "No quitter" mentality when facing technical challenges
 - Passion for continuous learning and professional development
 ---
 
