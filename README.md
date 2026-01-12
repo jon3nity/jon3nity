@@ -2,7 +2,7 @@
 
 **MSc Cybersecurity Student | Azure Certified**
 
-Computer Engineering graduate pursuing MSc in Cybersecurity at Atlantic Technological University, Letterkenny. Passionate about threat detection, vulnerability management, and security compliance. Currently building a professional portfolio while working towards industry certifications.
+Computer Engineering graduate pursuing MSc in Cybersecurity at Atlantic Technological University, Letterkenny. Passionate about threat detection, vulnerability management, security compliance and workflow automation. Currently building a professional portfolio while working towards industry certifications.
 
 ---
 
@@ -13,6 +13,7 @@ Computer Engineering graduate pursuing MSc in Cybersecurity at Atlantic Technolo
 - 🏥 GDPR Healthcare Compliance Assessment
 - 📊 NIST 800-30 Risk Assessment (University Financial System)
 - 🔍 Data Center Vulnerability Assessment & CVE Analysis
+- 📈 Splunk SIEM Dashboard (Failed Transaction Analysis - €33,707 Revenue Impact Quantification)
 - 🤖 LinkedIn Automation System (n8n + Claude AI + Multi-API Integration)
 ---
 
@@ -20,7 +21,8 @@ Computer Engineering graduate pursuing MSc in Cybersecurity at Atlantic Technolo
 
 **Security Operations:**
 - Vulnerability Management & CVE Research
-- SIEM (Splunk) & Log Analysis
+- SIEM Analysis & Dashboard Design (Splunk Enterprise)
+- SPL Query Development & Optimization
 - Network Security (Cisco, Fortinet)
 - Wireshark Packet Analysis
 
@@ -44,8 +46,9 @@ Computer Engineering graduate pursuing MSc in Cybersecurity at Atlantic Technolo
 - Containers: Docker, Docker Compose
 
 **Tools & Technologies:**
-- CVSS Scoring & Prioritization
+- Splunk Enterprise (Search, Dashboards, Lookups, Time-Series Analysis)
 - Cisco Packet Tracer
+- CVSS Scoring & Prioritization
 - Network Configuration & Security
 - Documentation & Technical Writing
 - n8n Workflow Engine
@@ -60,6 +63,7 @@ Comprehensive portfolio documenting my MSc journey with hands-on projects across
 - **Vulnerability Management:** Data center assessment, CVE analysis
 - **Network Security:** Campus design, VLAN security, routing protocols
 - **Security Operations:** Splunk SIEM, Wireshark analysis
+- **(Project) SIEM Analysis:** Splunk SIEM dashboard with multi-panel revenue impact analysis quantifying €33,707 business loss
 
 ### [LinkedIn Automation System](https://github.com/jon3nity/linkedin-automation-n8n)
 Basic production-grade workflow automation system featuring:
@@ -115,6 +119,7 @@ Basic production-grade workflow automation system featuring:
 ## 🎯 Career Objectives
 
 - Hands-on experience with vulnerability assessments and compliance frameworks
+- Practical SIEM analysis with business impact quantification (Splunk)
 - Proven automation engineering skills (production LinkedIn automation system)
 - Strong analytical thinking and attention to detail
 - API integration and workflow orchestration expertise
