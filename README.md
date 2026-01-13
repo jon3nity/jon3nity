@@ -65,17 +65,6 @@ Comprehensive portfolio documenting my MSc journey with hands-on projects across
 - **Security Operations:** Splunk SIEM, Wireshark analysis
 - **(Project) SIEM Analysis:** Splunk SIEM dashboard with multi-panel revenue impact analysis quantifying €33,707 business loss
 
-### [LinkedIn Automation System](https://github.com/jon3nity/linkedin-automation-n8n)
-Basic production-grade workflow automation system featuring:
-- Multi-source content aggregation (RSS, Gmail, Google Calendar)
-- Claude AI integration for generation
-- Intelligent personal story mining from email
-- Theme-based content routing
-- Quality gates and relevance scoring
-- Automated image selection (Unsplash API)
-- Multi-platform publishing (LinkedIn, Sheets, Slack)
-- 100% success rate, $0/month operating cost
-
 ---
 
 ## 🌐 Connect With Me
