@@ -14,7 +14,7 @@ Computer Engineering graduate pursuing MSc in Cybersecurity at Atlantic Technolo
 - 📊 NIST 800-30 Risk Assessment (University Financial System)
 - 🔍 Data Center Vulnerability Assessment & CVE Analysis
 - 📈 Splunk SIEM Dashboard (Failed Transaction Analysis - €33,707 Revenue Impact Quantification)
-- 🤖 LinkedIn Automation System (n8n + Claude AI + Multi-API Integration)
+- 🤖 Automation System (n8n + Claude AI + Multi-API Integration)
 ---
 
 ## 💼 Technical Skills
