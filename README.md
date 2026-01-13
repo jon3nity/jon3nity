@@ -68,7 +68,7 @@ Comprehensive portfolio documenting my MSc journey with hands-on projects across
 ### [LinkedIn Automation System](https://github.com/jon3nity/linkedin-automation-n8n)
 Basic production-grade workflow automation system featuring:
 - Multi-source content aggregation (RSS, Gmail, Google Calendar)
-- Claude AI integration for natural language generation
+- Claude AI integration for generation
 - Intelligent personal story mining from email
 - Theme-based content routing
 - Quality gates and relevance scoring
