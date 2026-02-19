@@ -57,7 +57,7 @@ Computer Engineering graduate pursuing MSc in Cybersecurity at Atlantic Technolo
 
 ## 📂 Featured Projects
 
-### [CyberSecurity-MSc-Portfolio](https://github.com/jon3nity/CyberSecurity-MSc-Portfolio)
+### [CyberSecurity-MSc-Portfolio](https://github.com/jon3nity/CyberSecurity-Portfolio)
 Comprehensive portfolio documenting my MSc journey with hands-on projects across:
 - **Compliance & Governance:** ISO 27001, GDPR, NIST frameworks
 - **Vulnerability Management:** Data center assessment, CVE analysis
